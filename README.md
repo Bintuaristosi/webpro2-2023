@@ -7,4 +7,4 @@ pertemuan 8-10 (Laravel)
 pertemuan 11-16 Projek
 
 Requirement
-1. PHP v
+1. PHP v 5.6
